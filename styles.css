@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+img{
+	border-radius:100px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+h1{
+	text-align:center;
+}
+
+a{
+	
+	
+}
+
+
+#skills{ 
+	background-color:blue;
+	
+}
